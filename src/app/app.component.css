@@ -1,0 +1,18 @@
+#dragDiv {
+  width: 100px;
+  height: 100px;
+  background: red;
+  position: absolute;
+}
+
+.handlder {
+  height: 20px;
+  width: 100%;
+  background: black;
+  cursor: move;
+}
+
+.contentDiv {
+  height: 100%;
+  width: 100%;
+}
